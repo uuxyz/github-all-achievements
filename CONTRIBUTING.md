@@ -16,3 +16,9 @@ GitHub 对共同署名的格式有[正式文档](https://docs.github.com/en/pull
 这三种身份需要分别核对。`gh api user --jq .login` 显示当前 CLI 使用的账号；`gh pr view 编号 --json author,commits` 显示 PR 发起者和提交信息。`Co-authored-by` 只给某次提交增加共同署名，不会把该账号变成 PR 发起者或仓库协作者。
 
 需要验证某账号实际发起 PR 时，应切换到该账号，使用它可写的 fork 提交分支，然后向原仓库发起 PR。
+
+## 核对审查状态
+
+PR 页面上的“请求审查”与已经完成的审查是两个不同事件。请求审查后，仍需查看 Reviews 区域是否出现批准、要求修改或评论。用 `gh pr view 编号 --json reviewRequests,reviews` 可以分别查询待处理的审查请求和已提交的审查记录。
+
+合并前应自行检查改动是否安全、准确。成就描述中的“未经代码审查”只说明 GitHub 没有记录审查结果，不应代替必要的人工检查。
