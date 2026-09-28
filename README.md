@@ -26,3 +26,4 @@ GitHub 没有公开完整的成就判定规则；下表中的获取方式来自�
 - [GitHub 成就推出时的说明](https://github.blog/news-insights/product-news/introducing-achievements-recognizing-the-many-stages-of-a-developers-coding-journey/)
 - [GitHub 社区：Quickdraw](https://github.com/orgs/community/discussions/27460)
 - [GitHub 社区：YOLO](https://github.com/orgs/community/discussions/19146)
+- [githubachievements.com](https://githubachievements.com/)
