@@ -7,7 +7,7 @@ GitHub 没有公开完整的成就判定规则；下表中的获取方式来自�
 | 成就 | 当前状态（2026-09-28） | 常见获取方式 |
 | --- | --- | --- |
 | Pull Shark | 已获得 ×2 | 自己提交的 PR 被合并 |
-| Quickdraw | 待核对 | 在创建 issue 或 PR 后五分钟内关闭 |
+| Quickdraw | 已获得（[issue #1](https://github.com/uuxyz/github-all-achievements/issues/1)） | 在创建 issue 或 PR 后五分钟内关闭 |
 | YOLO | 待核对 | 合并未经代码审查的 PR |
 | Pair Extraordinaire | 待核对 | 与另一位真实贡献者共同署名的提交被合并 |
 | Galaxy Brain | 待核对 | GitHub Discussions 中的回答被采纳 |
