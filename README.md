@@ -4,13 +4,13 @@
 
 GitHub 没有公开完整的成就判定规则；下表中的获取方式来自成就提示和社区经验，实际结果以个人主页显示为准。
 
-| 成就 | 当前状态（2026-09-28） | 常见获取方式 |
+| 成就 | 当前状态（2026-09-30） | 常见获取方式 |
 | --- | --- | --- |
 | Pull Shark | 已获得 ×2 | 自己提交的 PR 被合并 |
 | Quickdraw | 已获得（[issue #1](https://github.com/uuxyz/github-all-achievements/issues/1)） | 在创建 issue 或 PR 后五分钟内关闭 |
-| YOLO | 已合并[未经审查的 PR #2](https://github.com/uuxyz/github-all-achievements/pull/2)，待显示 | 合并未经代码审查的 PR |
+| YOLO | 已获得（[PR #9](https://github.com/uuxyz/github-all-achievements/pull/9)） | 合并未经代码审查的 PR |
 | Pair Extraordinaire | 已合并[两个账号共同署名的 PR #3](https://github.com/uuxyz/github-all-achievements/pull/3)，待显示 | 共同署名的提交被合并 |
-| Galaxy Brain | 待核对 | GitHub Discussions 中的回答被采纳 |
+| Galaxy Brain | 已获得（[讨论 #5](https://github.com/uuxyz/github-all-achievements/discussions/5)、[讨论 #6](https://github.com/uuxyz/github-all-achievements/discussions/6)） | GitHub Discussions 中的回答被采纳 |
 | Starstruck | 待核对 | 自己创建的公开仓库获得足够多的 star |
 | Public Sponsor | 待核对 | 公开赞助开源维护者 |
 
